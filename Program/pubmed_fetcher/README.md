@@ -1,7 +1,7 @@
 # PubMed research paper fetcher
 
 Hello! Welcomes to the PubMed Research Paper Fetcher. Based on any search you have in mind, this fantastic command-line utility helps you locate research papers on PubMed. It is intended to filter the results and display only the papers with at least one author affiliated with a biotechnology or drug firm. Furthermore, you can quickly store the output to a CSV file or review it directly in your terminal.
-While making this project I took help of Chatgpt to fix module imports, improve CLI structure using poetry and also make a cleaner filtering logic of non-academic authors. The LLM was used a development assistant, giving suggestions,debugging support,and finding ways to improve the code efficiency. I implemented decisions that were based on the projects needs
+While making this project I took help of Chatgpt to fix module imports, improve CLI structure using poetry and also make a cleaner filtering logic of non-academic authors. The LLM was used as a development assistant, giving suggestions,debugging support,and finding ways to improve the code's efficiency. I implemented decisions that were based on the projects needs.
 
 Project Layout
 
